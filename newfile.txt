@@ -1,0 +1,13 @@
+serife:50,20,60
+Tuğba Aşık
+Tuğba Aşık:30,50,20
+Tuğba Aşık:90,50,40
+Tuğba Aşık:40,70,80
+Beyza Özeren:65,64,50
+Beyza Özeren:10,50,90
+Beyza Özeren:50,64,30
+esra:40,80,90
+esma:55,30,86
+pınar:50,60,71
+serife:45,89,78
+rukiye:54,69,85
